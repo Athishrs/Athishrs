@@ -17,11 +17,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UNC Charlotte** (4.0 GPA, May 2026).
+I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UNC Charlotte** (4.0 GPA, May 2026) with production experience spanning three continents — from shipping component libraries and internal tooling at a Chennai-based agency, to building telemetry dashboards for a Formula Student race car, to the full-stack SaaS work I do today.
 
-- 🔭 Currently building **[Slotora](https://github.com/Athishrs/slotora)** — a multi-tenant appointment booking platform (Spring Boot + React + PostgreSQL, fully Dockerized & deployed)
-- 🤖 Daily user of **Claude Code**, **Cursor**, and **GitHub Copilot** — I treat AI tooling as a first-class part of the stack
+My focus is the **Java + React stack** — Spring Boot backends with proper security, clean REST APIs, and React frontends that actually hold up in production. I care about the details: real integration tests with Testcontainers (not mocks), multi-stage Docker builds, meaningful CI/CD, and auth that doesn't cut corners.
+
+I treat **AI coding tools as a first-class part of how I build** — Claude Code, Cursor, and GitHub Copilot are in my daily workflow, not just for autocomplete but for architecture, debugging, and code review.
+
+- 🔭 Currently building **[Slotora](https://github.com/Athishrs/slotora)** — a multi-tenant appointment booking SaaS, fully Dockerized and deployed on Railway + Vercel
 - ⚡ Strong foundation in **Java**, **Spring Boot**, **React**, and **cloud-native deployment**
+- 🌐 Background in both product and agency work across India, the US, and remote teams
 
 ---
 
@@ -33,6 +37,7 @@ I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UN
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frontend**
@@ -43,6 +48,7 @@ I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UN
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Backend**
 
@@ -50,7 +56,9 @@ I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UN
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 **Databases & ORM**
 
@@ -66,6 +74,7 @@ I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UN
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -90,6 +99,7 @@ I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UN
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
@@ -110,17 +120,17 @@ Full-stack roommate finder where users create profiles, set preferences, and get
 
 ---
 
-### 🍽 Dishcovery — AI-Powered Recipe Discovery
+### 🍽 [ThinkBridge](https://github.com/Athishrs/ThinkBridge) — AI-Powered Recipe Discovery
 > React · TypeScript · Vite · Node.js · Python · FastAPI · OpenAI API · LangChain · Spoonacular API · AWS
 
 Tell it what's in your fridge and it figures out what you can cook. The FastAPI backend sends ingredients to an OpenAI-powered LangChain chain that extracts and normalizes ingredient lists from natural language, then queries the Spoonacular API for matching recipes ranked by available ingredients. Results include nutrition info, missing ingredients, and step-by-step instructions — all streamed back to the React frontend.
 
 ---
 
-### 🛒 SmallBizz — E-Commerce Platform for Small Businesses
+### 🛒 [SmallBizz](https://github.com/Athishrs/Small-BIzz) — E-Commerce Platform for Small Businesses
 > Node.js · Express.js · MongoDB · PostgreSQL · Passport.js · Docker · Kubernetes · Kafka · gRPC · DynamoDB
 
-E-commerce backend built for small business owners to manage products, orders, and customers. Uses a hybrid database architecture — PostgreSQL for transactional data (orders, users) and MongoDB for product catalog and inventory. Auth is handled by Passport.js with both local strategy and OAuth. Kafka drives async order processing events between services, gRPC handles inter-service communication, and DynamoDB stores session data. Containerized with Docker and orchestrated with Kubernetes.
+E-commerce backend built for small business owners to manage products, orders, and customers. Uses a hybrid database architecture — PostgreSQL for transactional data (orders, users) and MongoDB for the product catalog and inventory. Auth is handled by Passport.js with both local strategy and OAuth. Kafka drives async order processing events between services, gRPC handles inter-service communication, and DynamoDB stores session data. Containerized with Docker and orchestrated with Kubernetes.
 
 ---
 
