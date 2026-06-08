@@ -22,7 +22,6 @@ I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UN
 - 🔭 Currently building **[Slotora](https://github.com/Athishrs/slotora)** — a multi-tenant appointment booking platform (Spring Boot + React + PostgreSQL, fully Dockerized & deployed)
 - 🤖 Daily user of **Claude Code**, **Cursor**, and **GitHub Copilot** — I treat AI tooling as a first-class part of the stack
 - ⚡ Strong foundation in **Java**, **Spring Boot**, **React**, and **cloud-native deployment**
-- 💬 Ask me about LeetCode, Spring Security/JWT, Docker, or full-stack system design
 
 ---
 
@@ -34,51 +33,100 @@ I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UN
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-**Data & Cloud**
+**Databases & ORM**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+**Auth & Security**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+**Testing**
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-83B81A?style=flat-square&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+
+**AI & Dev Tools**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🗓 [Slotora](https://github.com/Athishrs/slotora) — Multi-Tenant Appointment Booking Platform
-> Spring Boot (Java 21) · Spring Security · JWT · React · Vite · Tailwind · PostgreSQL · Docker · Railway · Vercel
+> Spring Boot (Java 21) · Spring Security · JWT · JPA/Hibernate · React · Vite · Tailwind CSS · PostgreSQL · Docker · Railway · Vercel
 
-A production-grade SaaS platform where any user can register a business, onboard staff and services, and accept bookings. Features JWT auth, multi-tenant data isolation, a 3-step onboarding flow, and a full JUnit 5 + Mockito + Testcontainers test suite (19 tests, 0 failures). Fully Dockerized with multi-stage builds and custom Nginx SPA routing.
+A production-grade SaaS platform where any registered user can create a business, onboard staff and services, and start accepting bookings — no admin approval needed. The auth system is built from scratch: `JwtService` issues and validates tokens, `JwtAuthFilter` intercepts every request, `SecurityConfig` locks down routes, and a `GlobalExceptionHandler` ensures clean 401/403 responses instead of raw Spring stack traces. Data is fully isolated per tenant across 5 core entities (`User`, `Business`, `Service`, `Staff`, `Booking`) with a `BookingStatus` enum driving state transitions. The test suite uses Testcontainers to spin up a real PostgreSQL instance for integration tests — no in-memory DB shortcuts. Dockerized with multi-stage builds for both backend and frontend, a custom `nginx.conf` handles SPA routing and proxies `/api/` requests, and a `DataSeeder` seeds demo data on first startup. ARM64/Apple Silicon compatible via `amazoncorretto:21-alpine`.
 
 ---
 
 ### 🏠 [Roommate Harmony](https://github.com/Athishrs/Roomate-harmony-web) — Roommate Matching Web App
-> React 18 · Node.js/Express · PostgreSQL (Supabase) · Prisma ORM · JWT · Playwright · Docker · Vercel
+> React 18 · Vite · Tailwind CSS · Shadcn UI · Node.js · Express.js · PostgreSQL (Supabase) · Prisma ORM · JWT · Supertest · Playwright · Docker · Vercel
 
-Full-stack roommate finder with compatibility-based matching, protected routes, and an end-to-end test suite.
+Full-stack roommate finder where users create profiles, set preferences, and get matched based on compatibility scores. The Prisma schema covers 17 models including users, listings, preferences, matches, and messages. The backend exposes a REST API with JWT-protected routes and is tested with Supertest for unit/integration coverage. The frontend is built in React 18 with Shadcn UI components and fully E2E tested with Playwright. Deployed on Vercel (frontend) and Render (backend), with Docker for local dev parity.
 
 ---
 
 ### 🍽 Dishcovery — AI-Powered Recipe Discovery
-> React · TypeScript · FastAPI · Python · OpenAI API · Spoonacular API
+> React · TypeScript · Vite · Node.js · Python · FastAPI · OpenAI API · LangChain · Spoonacular API · AWS
 
-Describe what's in your fridge and get recipe suggestions powered by OpenAI. Combines LLM reasoning with structured recipe data from Spoonacular.
+Tell it what's in your fridge and it figures out what you can cook. The FastAPI backend sends ingredients to an OpenAI-powered LangChain chain that extracts and normalizes ingredient lists from natural language, then queries the Spoonacular API for matching recipes ranked by available ingredients. Results include nutrition info, missing ingredients, and step-by-step instructions — all streamed back to the React frontend.
+
+---
+
+### 🛒 SmallBizz — E-Commerce Platform for Small Businesses
+> Node.js · Express.js · MongoDB · PostgreSQL · Passport.js · Docker · Kubernetes · Kafka · gRPC · DynamoDB
+
+E-commerce backend built for small business owners to manage products, orders, and customers. Uses a hybrid database architecture — PostgreSQL for transactional data (orders, users) and MongoDB for product catalog and inventory. Auth is handled by Passport.js with both local strategy and OAuth. Kafka drives async order processing events between services, gRPC handles inter-service communication, and DynamoDB stores session data. Containerized with Docker and orchestrated with Kubernetes.
 
 ---
 
