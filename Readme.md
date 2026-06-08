@@ -1,94 +1,55 @@
 <div align="center">
 
-<!-- Typing animation header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Athish+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Java+%2B+React;Building+production+apps+%40+UNC+Charlotte;Teaching+AI-assisted+dev+to+80%2B+students" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=180&section=header&text=hey%2C+I'm+Athish+%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/athish-rs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Athishrs)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athishrs02@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=full-stack+engineer+%7C+Java+%2B+React;currently+building+Slotora+%F0%9F%97%93;teaching+AI-assisted+dev+%40+UNC+Charlotte;always+on+LeetCode+%F0%9F%A7%A9" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+I like building things that actually work in production — not just demos. Right now that's **[Slotora](https://github.com/Athishrs/slotora)**, a multi-tenant booking platform I've been building from scratch with Spring Boot, React, and PostgreSQL. Full JWT auth, Dockerized, deployed on Railway + Vercel, 19 tests passing.
 
-I'm a **Full-Stack Engineer** pursuing my M.S. in Information Technology at **UNC Charlotte** (4.0 GPA, May 2026), with a background shipping production apps across three continents.
+By day I'm a TA at UNC Charlotte where I teach 80+ students how to use AI coding tools as a real part of their workflow — not just tab-complete, but Claude Code, Cursor, agentic debugging, the whole thing. It's become my favorite thing to talk about.
 
-- 🔭 Currently building **[Slotora](https://github.com/Athishrs/slotora)** — a multi-tenant appointment booking platform (Spring Boot + React + PostgreSQL, fully Dockerized & deployed)
-- 🎓 Teaching Assistant in the College of Computing & Informatics — teaching AI-assisted SDLC workflows to 80+ students
-- 🤖 Daily user of **Claude Code**, **Cursor**, and **GitHub Copilot** — I treat AI tooling as a first-class part of the stack
-- ⚡ Strong foundation in **Java**, **Spring Boot**, **React**, and **cloud-native deployment**
-- 💬 Ask me about LeetCode, Spring Security/JWT, Docker, or full-stack system design
+When I'm not doing that I'm grinding LeetCode in Java or reading about distributed systems.
 
 ---
 
-## 🛠 Tech Stack
+### 🔨 things I'm building
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Data & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+| | |
+|---|---|
+| **[Slotora](https://github.com/Athishrs/slotora)** | Multi-tenant appointment booking SaaS. Spring Boot + React + PostgreSQL. JWT, Testcontainers, Docker, Railway + Vercel. |
+| **[Roommate Harmony](https://github.com/Athishrs/Roomate-harmony-web)** | Roommate matching app. React 18 + Node/Express + Supabase + Prisma. E2E tested with Playwright. |
+| **Dishcovery** | Tell it what's in your fridge, it finds recipes. React + FastAPI + OpenAI + Spoonacular. |
+| **SmallBizz** | E-commerce for small businesses. Node/Express + MongoDB/PostgreSQL + Passport.js + Docker. |
 
 ---
 
-## 🚀 Featured Projects
+### 🧰 stack I reach for
 
-### 🗓 [Slotora](https://github.com/Athishrs/slotora) — Multi-Tenant Appointment Booking Platform
-> Spring Boot (Java 21) · Spring Security · JWT · React · Vite · Tailwind · PostgreSQL · Docker · Railway · Vercel
-
-A production-grade SaaS platform where any user can register a business, onboard staff and services, and accept bookings. Features JWT auth, multi-tenant data isolation, a 3-step onboarding flow, and a full JUnit 5 + Mockito + Testcontainers test suite (19 tests, 0 failures). Fully Dockerized with multi-stage builds and custom Nginx SPA routing.
-
----
-
-### 🏠 [Roommate Harmony](https://github.com/Athishrs/Roomate-harmony-web) — Roommate Matching Web App
-> React 18 · Node.js/Express · PostgreSQL (Supabase) · Prisma ORM · JWT · Playwright · Docker · Vercel
-
-Full-stack roommate finder with compatibility-based matching, protected routes, and an end-to-end test suite.
-
----
-
-### 🍽 Dishcovery — AI-Powered Recipe Discovery
-> React · TypeScript · FastAPI · Python · OpenAI API · Spoonacular API
-
-Describe what's in your fridge and get recipe suggestions powered by OpenAI Codex. Combines LLM reasoning with structured recipe data from Spoonacular.
+```
+Languages    →  Java  ·  TypeScript  ·  JavaScript  ·  Python
+Backend      →  Spring Boot  ·  Node.js  ·  Express  ·  FastAPI
+Frontend     →  React  ·  Next.js  ·  Vite  ·  Tailwind CSS
+Databases    →  PostgreSQL  ·  MongoDB  ·  Redis  ·  MySQL
+DevOps       →  Docker  ·  GitHub Actions  ·  Railway  ·  AWS  ·  Vercel
+Auth         →  JWT  ·  Spring Security  ·  OAuth 2.0
+Testing      →  JUnit 5  ·  Mockito  ·  Testcontainers  ·  Playwright
+AI Tools     →  Claude Code  ·  Cursor  ·  GitHub Copilot
+```
 
 ---
 
-## 📊 GitHub Stats
+### 📊 stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Athishrs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athishrs&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Athishrs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athishrs&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
 
@@ -100,6 +61,10 @@ Describe what's in your fridge and get recipe suggestions powered by OpenAI Code
 
 ---
 
-<div align="center">
-  <sub>Open to <strong>Java Full-Stack</strong> and <strong>Software Engineering</strong> roles · OPT/H-1B sponsorship required</sub>
-</div>
+### 📬 reach me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/athish-rs)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:athishrs02@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Athishrs)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
